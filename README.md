@@ -1,2 +1,16 @@
-# Starbucks-landing-page
-Responsive pet-project for a Starbucks concept based on a Figma design. The aim was to develop UI layout skills and developer tools. About tech stack look the README.md.
+# Starbucks Adaptive Layout
+
+This project was created as a training project focused on responsive layout development.
+
+## Technologies
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- clamp()
+- pseudoclasses and pseudoelements
+
+## Features
+- responsive layout
+- animated borders
+- background wave effects
